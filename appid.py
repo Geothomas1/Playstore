@@ -1,0 +1,1 @@
+appid=[nic.goi.aarogyasetu,com.nic.mparivahan,nic.hp.niv_reporting,in.gov.ecourts.eCourtsServices,com.nic.project.pmkisan,in.nic.up.pariksha.pariksha_15052017,in.gov.umang.negd.g2c]
