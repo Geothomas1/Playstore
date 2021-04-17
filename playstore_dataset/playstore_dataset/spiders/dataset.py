@@ -1,12 +1,13 @@
 import scrapy
+ 
 from ..items import PlaystoreDatasetItem
-import 
 
 
 
 class DatasetSpider(scrapy.Spider):
     name = 'dataset'
-    start_urls = ['https://play.google.com/store/apps']
+    allowed_domains=["play.google.com"]
+    start_urls = ['https://play.google.com/store']
 
     def parse(self, response):
         apps=PlaystoreDatasetItem()
