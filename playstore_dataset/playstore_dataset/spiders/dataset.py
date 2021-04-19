@@ -17,7 +17,7 @@ class DatasetSpider(scrapy.Spider):
         #apps['app_name']=app_name
         # apps['app_developer']=app_developer
         # apps['app_link']=app_link
-        apps['app_developer_link']=app_developer_link
+        #apps['app_developer_link']=app_developer_link
         for link in app_developer_link:
             print(link.split('=')[-1])
 
