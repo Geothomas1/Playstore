@@ -7,7 +7,6 @@ class DatasetSpider(scrapy.Spider):
     allowed_domains=["play.google.com"]
     start_urls = ['https://play.google.com/store/apps/collection/cluster?clp=0g4lCiMKHW1vdmVyc19zaGFrZXJzX0FSVF9BTkRfREVTSUdOEAcYAw%3D%3D:S:ANO1ljLIuvY&gsr=CijSDiUKIwodbW92ZXJzX3NoYWtlcnNfQVJUX0FORF9ERVNJR04QBxgD:S:ANO1ljI5X-E']
 
-
     def parse(self, response):
         apps=PlaystoreDatasetItem()
         app_name=response.css('.WsMG1c.nnK0zc::text').extract()
