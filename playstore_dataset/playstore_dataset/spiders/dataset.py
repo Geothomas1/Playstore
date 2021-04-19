@@ -5,7 +5,7 @@ from ..items import PlaystoreDatasetItem
 class DatasetSpider(scrapy.Spider):
     name = 'dataset'
     allowed_domains=["play.google.com"]
-    start_urls = ['https://play.google.com/store/apps/collection/cluster?clp=0g4mCiQKHnRvcHNlbGxpbmdfcGFpZF9BUlRfQU5EX0RFU0lHThAHGAM%3D:S:ANO1ljLn4cw&gsr=CinSDiYKJAoedG9wc2VsbGluZ19wYWlkX0FSVF9BTkRfREVTSUdOEAcYAw%3D%3D:S:ANO1ljK90S4']
+    start_urls = ['https://play.google.com/store/apps/collection/cluster?clp=0g4lCiMKHW1vdmVyc19zaGFrZXJzX0FSVF9BTkRfREVTSUdOEAcYAw%3D%3D:S:ANO1ljLIuvY&gsr=CijSDiUKIwodbW92ZXJzX3NoYWtlcnNfQVJUX0FORF9ERVNJR04QBxgD:S:ANO1ljI5X-E']
 
     def parse(self, response):
         apps=PlaystoreDatasetItem()
