@@ -7,5 +7,6 @@ class PlaystoreDatasetItem(scrapy.Item):
     app_developer = scrapy.Field()
     app_link=scrapy.Field()
     app_developer_link=scrapy.Field()
+    link=scrapy.Field()
 
     pass

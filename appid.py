@@ -1,1 +1,3 @@
-appid=[nic.goi.aarogyasetu,com.nic.mparivahan,nic.hp.niv_reporting,in.gov.ecourts.eCourtsServices,com.nic.project.pmkisan,in.nic.up.pariksha.pariksha_15052017,in.gov.umang.negd.g2c,com.negd.nashamuktbharatabhiyaan,com.ncog.shriamarnath,com.negd.iisapp,com.negd.economicsurvey,com.coal.coalminesurveillance,com.mining.msspublic,com.NIC.covid19,net.gcsolutions.negdlms,com.negd.pmis,com.cropdemonstrate,com.sba.app,in.negd.garvigujarat,im.govtalkchat.app,com.negd.dpe]
+appid=[
+    
+]
