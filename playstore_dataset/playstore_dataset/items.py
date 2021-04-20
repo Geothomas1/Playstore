@@ -10,3 +10,4 @@ class PlaystoreDatasetItem(scrapy.Item):
     link=scrapy.Field()
 
     pass
+
