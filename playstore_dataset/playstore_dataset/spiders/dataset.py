@@ -1,11 +1,12 @@
 import scrapy
 from ..items import PlaystoreDatasetItem
-
+from link_list import link_list
 
 class DatasetSpider(scrapy.Spider):
     name = 'dataset'
     allowed_domains=["play.google.com"]
-    start_urls = ['https://play.google.com/store/apps/collection/cluster?clp=6gsoCiYKIHByb21vdGlvbl9hcl9zdG9yZWNhdGVnb3J5X2FyZWR1EEoYAw%3D%3D:S:ANO1ljLVBCs&gsr=CivqCygKJgogcHJvbW90aW9uX2FyX3N0b3JlY2F0ZWdvcnlfYXJlZHUQShgD:S:ANO1ljIwMKs']
+    for url in link_list:
+        start_urls = [url]
 
     def parse(self, response):
         apps=PlaystoreDatasetItem()
