@@ -60,6 +60,7 @@ class DatasetSpider(scrapy.Spider):
         print(dev_link)
         for x in dev_link:
             main_list.append(x)
+        print(main_list)
         yield apps
 
 
