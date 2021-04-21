@@ -5,7 +5,6 @@ class DatasetSpider(scrapy.Spider):
     name = 'dataset'
     allowed_domains=["play.google.com"]
     start_urls = [
-        'https://play.google.com/store/apps',
         'https://play.google.com/store/apps/collection/cluster?clp=0g4mCiQKHnRvcHNlbGxpbmdfZnJlZV9BUlRfQU5EX0RFU0lHThAHGAM%3D:S:ANO1ljKKwsU&gsr=CinSDiYKJAoedG9wc2VsbGluZ19mcmVlX0FSVF9BTkRfREVTSUdOEAcYAw%3D%3D:S:ANO1ljK_3F0',
         'https://play.google.com/store/apps/collection/cluster?clp=0g4iCiAKGnRvcGdyb3NzaW5nX0FSVF9BTkRfREVTSUdOEAcYAw%3D%3D:S:ANO1ljIXYIY&gsr=CiXSDiIKIAoadG9wZ3Jvc3NpbmdfQVJUX0FORF9ERVNJR04QBxgD:S:ANO1ljIQjsw',
         'https://play.google.com/store/apps/collection/cluster?clp=0g4lCiMKHW1vdmVyc19zaGFrZXJzX0FSVF9BTkRfREVTSUdOEAcYAw%3D%3D:S:ANO1ljLIuvY&gsr=CijSDiUKIwodbW92ZXJzX3NoYWtlcnNfQVJUX0FORF9ERVNJR04QBxgD:S:ANO1ljI5X-E',
@@ -39,8 +38,6 @@ class DatasetSpider(scrapy.Spider):
         'https://play.google.com/store/apps/collection/cluster?clp=0g4hCh8KGXRvcGdyb3NzaW5nX0NPTU1VTklDQVRJT04QBxgD:S:ANO1ljJi3A0&gsr=CiTSDiEKHwoZdG9wZ3Jvc3NpbmdfQ09NTVVOSUNBVElPThAHGAM%3D:S:ANO1ljJ7Efo',
         'https://play.google.com/store/apps/collection/cluster?clp=0g4kCiIKHG1vdmVyc19zaGFrZXJzX0NPTU1VTklDQVRJT04QBxgD:S:ANO1ljKs21c&gsr=CifSDiQKIgocbW92ZXJzX3NoYWtlcnNfQ09NTVVOSUNBVElPThAHGAM%3D:S:ANO1ljJUGKU',
         'https://play.google.com/store/apps/collection/cluster?clp=0g4lCiMKHXRvcHNlbGxpbmdfcGFpZF9DT01NVU5JQ0FUSU9OEAcYAw%3D%3D:S:ANO1ljLE4oc&gsr=CijSDiUKIwoddG9wc2VsbGluZ19wYWlkX0NPTU1VTklDQVRJT04QBxgD:S:ANO1ljI8da0'
-
-
 
         ]
 
