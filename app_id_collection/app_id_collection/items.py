@@ -9,4 +9,5 @@ import scrapy
 class AppIdCollectionItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    app_id=scrapy.Field()
     pass
