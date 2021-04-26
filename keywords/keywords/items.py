@@ -9,4 +9,5 @@ import scrapy
 class KeywordsItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    app_developer_link=scrapy.Field()
     pass
