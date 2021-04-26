@@ -1,6 +1,7 @@
 import scrapy
 from ..items import AppIdCollectionItem
 mylist=['9076108670215860604','5700313618786177705','6860682062931868151','8426036374624640337']
+#sample id data as list
 main_list=[]
 class AppidSpider(scrapy.Spider):
     name='app_id'
