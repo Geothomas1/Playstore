@@ -11,25 +11,25 @@ BOT_NAME = 'keywords'
 
 SPIDER_MODULES = ['keywords.spiders']
 NEWSPIDER_MODULE = 'keywords.spiders'
-ROTATING_PROXY_LIST = [
-    '93.170.97.160:8080',
-    '190.211.82.178:999',
-    '202.142.166.194:8080',
-    '190.9.55.12:8080',
-    '167.179.113.45:3128'
-]
-DOWNLOADER_MIDDLEWARES = {
-    # ...
-    'rotating_proxies.middlewares.RotatingProxyMiddleware': 800,
-    'rotating_proxies.middlewares.BanDetectionMiddleware': 800,
-    # ...
-}
+# ROTATING_PROXY_LIST = [
+#     '93.170.97.160:8080',
+#     '190.211.82.178:999',
+#     '202.142.166.194:8080',
+#     '190.9.55.12:8080',
+#     '167.179.113.45:3128'
+# ]
+# DOWNLOADER_MIDDLEWARES = {
+#     # ...
+#     'rotating_proxies.middlewares.RotatingProxyMiddleware': 800,
+#     'rotating_proxies.middlewares.BanDetectionMiddleware': 800,
+#     # ...
+# }
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'keywords (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
