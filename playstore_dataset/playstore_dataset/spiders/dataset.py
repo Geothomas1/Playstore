@@ -5,8 +5,7 @@ class DatasetSpider(scrapy.Spider):
     name = 'dataset'
     allowed_domains=["play.google.com"]
     start_urls = [
-        #start url as list
-        
+        'https://play.google.com/store/search?q=kerala&c=apps'
         ]
 
     def parse(self, response):

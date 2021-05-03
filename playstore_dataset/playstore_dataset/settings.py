@@ -4,7 +4,7 @@ BOT_NAME = 'playstore_dataset'
 SPIDER_MODULES = ['playstore_dataset.spiders']
 NEWSPIDER_MODULE = 'playstore_dataset.spiders'
 
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 # ROTATING_PROXY_LIST = [
 #     '93.170.97.160:8080',
 #     '190.211.82.178:999',
