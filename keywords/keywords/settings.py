@@ -11,20 +11,28 @@ BOT_NAME = 'keywords'
 
 SPIDER_MODULES = ['keywords.spiders']
 NEWSPIDER_MODULE = 'keywords.spiders'
-ROTATING_PROXY_LIST = [
-    '93.170.97.160:8080',
-    '190.211.82.178:999',
-    '202.142.166.194:8080',
-    '190.9.55.12:8080',
-    '167.179.113.45:3128'
-]
+# ROTATING_PROXY_LIST = [
+#     '93.170.97.160:8080',
+#     '190.211.82.178:999',
+#     '202.142.166.194:8080',
+#     '190.9.55.12:8080',
+#     '167.179.113.45:3128'
+# ]
+# SPLASH_URL = 'http://localhost:8050'
 DOWNLOADER_MIDDLEWARES = {
     # ...
-    'rotating_proxies.middlewares.RotatingProxyMiddleware': 800,
-    'rotating_proxies.middlewares.BanDetectionMiddleware': 800,
+    # 'rotating_proxies.middlewares.RotatingProxyMiddleware': 800,
+    # 'rotating_proxies.middlewares.BanDetectionMiddleware': 800,
+    # 'scrapy_splash.SplashCookiesMiddleware': 723,
+    # 'scrapy_splash.SplashMiddleware': 725,
+    # 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
     # ...
 }
-
+# SPIDER_MIDDLEWARES = {
+#     'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
+# }
+# DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
+# HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'keywords (+http://www.yourdomain.com)'
 
