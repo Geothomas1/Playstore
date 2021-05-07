@@ -1,6 +1,7 @@
 import scrapy
 from ..items import AppIdCollectionItem
-mylist=['9076108670215860604','5700313618786177705','6860682062931868151','8426036374624640337']
+mylist=["YovoGames", "Beansprites+LLC", "YovoGames", "8983550861078733583", "5735447750101420287", "5735447750101420287", "Breet.Jia", "9169504509079500539", "8983550861078733583", "bmapps", "kukipukie", "bmapps", "Crazyplex+LLC", "4946022439885210717", "bmapps", "5030558259263481203", "bmapps", "4946022439885210717", "Burbuja+Games", "7518640404124942658", "Beansprites+LLC", "bmapps", "Taprix", "Happy+Apps+Media", "5030558259263481203", "4700756200397995264", "Coco+Play+By+TabTale", "Girls+Games+Studios", "HAPPY+TAPPY+STUDIO", "kids+GamesOn", "5735447750101420287", "GameiFun+-+Educational+games", "6799243928407092181", "gkgame", "5641067919817566915", "5735447750101420287", "Tap+Happy", "PRT+Game+Studio", "9154300028955433686", "4946022439885210717", "Fabulous+Fun", "Mobi+Fun+games", "Fabulous+Fun", "5030558259263481203", "bweb+media", "7082178223243563741", "Chic+World", "Girls+Fashion+Entertainment", "Girl+Games+Academy", "6493980387780624296"]
+
 #sample id data as list
 main_list=[]
 class AppidSpider(scrapy.Spider):
@@ -8,7 +9,7 @@ class AppidSpider(scrapy.Spider):
     allowed_domain=["play.google.com"]
     
     start_urls=[
-            'https://play.google.com/store/apps/dev?id='+i
+            "https://play.google.com/store/apps/dev?id="+i
             for i in mylist
             ]
 
