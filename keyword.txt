@@ -1,281 +1,268 @@
-Afrikaans – af
-Amharic – am
-Arabic – ar
-Armenian – hy-AM
-Azerbaijani – az-AZ
-Basque – eu-ES
-Belarusian – be
-Bengali – bn-BD
-Bulgarian – bg
-Burmese – my-MM
-Catalan – ca
-Chinese (Hong Kong) – zh-HK
-Chinese (Simplified) – zh-CN
-Chinese (Traditional) – zh-TW
-Croatian – hr
-Czech – cs-CZ
-Danish – da-DK
-Dutch – nl-NL
-English – en-AU
-English – en-CA
-English – en-IN
-English – en-SG
-English (United Kingdom) – en-GB
-English (United States) – en-US
-Estonian – et
-Filipino – fil
-Finnish – fi-FI
-French – fr-FR
-French (Canada) – fr-CA
-Galician – gl-ES
-Georgian – ka-GE
-German – de-DE
-Greek – el-GR
-Hebrew – iw-IL
-Hindi – hi-IN
-Hungarian – hu-HU
-Icelandic – is-IS
-Indonesian – id
-Italian – it-IT
-Japanese – ja-JP
-Kannada – kn-IN
-Khmer – km-KH
-Korean (South Korea) – ko-KR
-Kyrgyz – ky-KG
-Lao – lo-LA
-Latvian – lv
-Lithuanian – lt
-Macedonian – mk-MK
-Malay – ms
-Malayalam – ml-IN
-Marathi – mr-IN
-Mongolian – mn-MN
-Nepali – ne-NP
-Norwegian – no-NO
-Persian – fa
-Polish – pl-PL
-Portuguese (Brazil) – pt-BR
-Portuguese (Portugal) – pt-PT
-Romanian – ro
-Romansh – rm
-Russian – ru-RU
-Serbian – sr
-Sinhala – si-LK
-Slovak – sk
-Slovenian – sl
-Spanish (Latin America) – es-419
-Spanish (Spain) – es-ES
-Spanish (United States) – es-US
-Swahili – sw
-Swedish – sv-SE
-Tamil – ta-IN
-Telugu – te-IN
-Thai – th
-Turkish – tr-TR
-Ukrainian – uk
-Vietnamese – vi
-Zulu – zu
-
-4X
-Abstract strategy
-Action
-Action role-playing
-Action-adventure
-Adventure
-American football
-Arcade
-Basketball
-Beat ‘em up
-Billiards
-Bingo
-Blackjack
-Board
-Bowling
-Boxing
-Brain training
-Brick break
-Bubble shooter
-Business & tycoon
-Car racing
-Car simulator
-Card
-Care simulation
-Casino
-Casual
-Checkers
-Chess
-City-building
-Collectible cards
-Construction and management simulation
-Cricket
-Crossword
-Dating simulation
-Dentist
-Dice
-Doctor
-Drawing
-Dress-up
-Drums
-Educational
-Endless runner
-Escape the room
-Farming
-Fighting
-Flight simulator
-Go
-Golf
-Government & political
-Hero shooter
-Hidden object
-Hockey
-Incremental
-Interactive fiction
-Japanese role-playing
-Jigsaw puzzle
-Kart racing
-Life simulation
-Logo quiz
-Ludo
-Mahjong
-Mahjong solitaire
-Massively multiplayer online role-playing
-Match 3
-Memory
-Merge puzzle
-Motorcycle racing
-Multiplayer online battle arena
-Music
-Pet
-Physics-based
-Piano
-Platform action-adventure
-Platformer
-Poker
-Puzzle
-Puzzle role-playing
-Puzzle-adventure
-Racing
-Racing simulator
-Restaurant & cooking
-Rhythm
-Roguelike
-Role-playing
-Rummy
-Shoot ‘em up
-Shooter
-Shooting range
-Simulation
-Sliding puzzle
-Slot machine
-Soccer
-Social simulation
-Solitaire
-Sports
-Sports management
-Sports-based fighting
-Strategy
-Stunt driving
-Survival
-Survival horror
-Table game
-Tactical role-playing
-Teen patti
-Tile-matching
-Tower defense
-Train simulator
-Trivia
-Truck racing
-Truck simulator
-Vehicle simulation
-Visual novel
-Wargame
-Winter sports
-Word
-Word search
-Wrestling
-Activity tracker
-Air Travel
-Art & design
-Audio recorder
-Audiobook
-Auto & vehicles
-Baby care
-Barcode scanner
-Baseball
-Beauty
-Boating
-Books & reference
-Bus
-Business
-Communication
-Early childhood education
-Education
-Email
-Emoji
-Encyclopedia
-Entertainment
-Events
-Fashion
-Finance
-Flashlight
-Food & drink
-Food delivery
-Health & Fitness
-Lifestyle
-Music & audio
-Network connectivity
-Parenting
-Personalisation
-Professional network service
-Pronunciation
-Public transport
-Racing
-Racquet sports
-Radio
-Recipe
-Religious text
-Remote control
-Restaurant
-Resume
-Ringtone
-Rugby
-Running
-Science education
-Self-help
-Shopping
-Skiing
-Sleep
-Social
-Sound effect
-Speedometer
-Sports
-Sports coaching
-Study guide
-Taxi & rideshare
-Tennis
-Test preparation
-Text messaging
-Theme
-Tools
-Train
-Travel & local
-Travel guide
-TV
-TV guide
-Vehicle maintenance
-Vehicle shopping
-Video call
-Video download
-Video editing
-Video player
-Video streaming
-Virtual private network (VPN)
-Virtual reality
-Wallpaper
-Weather
-Web browser
-Weight loss
-Wi-fi
-Wireless service provider
-Workout
-Yoga
+'Afrikaans',
+'Amharic',
+'Arabic',
+'Armenian',
+'Azerbaijani',
+'Basque',
+'Belarusian',
+'Bengali',
+'Bulgarian',
+'Burmese',
+'Catalan',
+'Chinese',
+'Croatian',
+'Czech',
+'Danish',
+'Dutch',
+'English',
+'Estonian',
+'Filipino',
+'Finnish',
+'French',
+'Galician',
+'Georgian',
+'German',
+'Greek',
+'Hebrew',
+'Hindi',
+'Hungarian',
+'Icelandic',
+'Indonesian',
+'Italian',
+'Japanese',
+'Kannada',
+'Khmer',
+'Korean',
+'Kyrgyz',
+'Lao',
+'Latvian',
+'Lithuanian',
+'Macedonian',
+'Malay',
+'Malayalam',
+'Marathi',
+'Mongolian',
+'Nepali',
+'Norwegian',
+'Persian',
+'Polish',
+'Portuguese',
+'Portuguese',
+'Romanian',
+'Romansh',
+'Russian',
+'Serbian',
+'Sinhala',
+'Slovak',
+'Slovenian',
+'Spanish',
+'Swahili',
+'Swedish',
+'Tamil',
+'Telugu',
+'Thai',
+'Turkish',
+'Ukrainian',
+'Vietnamese',
+'Zulu',
+'4X',
+'Abstract strategy',
+'Action',
+'Action role-playing',
+'Action-adventure',
+'Adventure',
+'American football',
+'Arcade',
+'Basketball',
+'Beat em up',
+'Billiards',
+'Bingo',
+'Blackjack',
+'Board',
+'Bowling',
+'Boxing',
+'Brain training',
+'Brick break',
+'Bubble shooter',
+'Business tycoon',
+'Car racing',
+'Car simulator',
+'Card',
+'Care simulation',
+'Casino',
+'Casual',
+'Checkers',
+'Chess',
+'City-building',
+'Collectible cards',
+'Construction and management simulation',
+'Cricket',
+'Crossword',
+'Dating simulation',
+'Dentist',
+'Dice',
+'Doctor',
+'Drawing',
+'Dress-up',
+'Drums',
+'Educational',
+'Endless runner',
+'Escape the room',
+'Farming',
+'Fighting',
+'Flight simulator',
+'Go',
+'Golf',
+'Government & political',
+'Hero shooter',
+'Hidden object',
+'Hockey',
+'Incremental',
+'Interactive fiction',
+'Japanese role-playing',
+'Jigsaw puzzle',
+'Kart racing',
+'Life simulation',
+'Logo quiz',
+'Ludo',
+'Mahjong',
+'Mahjong solitaire',
+'Massively multiplayer online role-playing',
+'Match 3',
+'Memory',
+'Merge puzzle',
+'Motorcycle racing',
+'Multiplayer online battle arena',
+'Music',
+'Pet',
+'Physics-based',
+'Piano',
+'Platform action-adventure',
+'Platformer',
+'Poker',
+'Puzzle',
+'Puzzle role-playing',
+'Puzzle-adventure',
+'Racing',
+'Racing simulator',
+'Restaurant & cooking',
+'Rhythm',
+'Roguelike',
+'Role-playing',
+'Rummy',
+'Shoot ‘em up',
+'Shooter',
+'Shooting range',
+'Simulation',
+'Sliding puzzle',
+'Slot machine',
+'Soccer',
+'Social simulation',
+'Solitaire',
+'Sports',
+'Sports management',
+'Sports-based fighting',
+'Strategy',
+'Stunt driving',
+'Survival',
+'Survival horror',
+'Table game',
+'Tactical role-playing',
+'Teen patti',
+'Tile-matching',
+'Tower defense',
+'Train simulator',
+'Trivia',
+'Truck racing',
+'Truck simulator',
+'Vehicle simulation',
+'Visual novel',
+'Wargame',
+'Winter sports',
+'Word',
+'Word search',
+'Wrestling',
+'Activity tracker',
+'Air Travel',
+'Art & design',
+'Audio recorder',
+'Audiobook',
+'Auto & vehicles',
+'Baby care',
+'Barcode scanner',
+'Baseball',
+'Beauty',
+'Boating',
+'Books & reference',
+'Bus',
+'Business',
+'Communication',
+'Early childhood education',
+'Education',
+'Email',
+'Emoji',
+'Encyclopedia',
+'Entertainment',
+'Events',
+'Fashion',
+'Finance',
+'Flashlight',
+'Food & drink',
+'Food delivery',
+'Health & Fitness',
+'Lifestyle',
+'Music & audio',
+'Network connectivity',
+'Parenting',
+'Personalisation',
+'Professional network service',
+'Pronunciation',
+'Public transport',
+'Racing',
+'Racquet sports',
+'Radio',
+'Recipe',
+'Religious text',
+'Remote control',
+'Restaurant',
+'Resume',
+'Ringtone',
+'Rugby',
+'Running',
+'Science education',
+'Self-help',
+'Shopping',
+'Skiing',
+'Sleep',
+'Social',
+'Sound effect',
+'Speedometer',
+'Sports',
+'Sports coaching',
+'Study guide',
+'Taxi & rideshare',
+'Tennis',
+'Test preparation',
+'Text messaging',
+'Theme',
+'Tools',
+'Train',
+'Travel & local',
+'Travel guide',
+'TV',
+'TV guide',
+'Vehicle maintenance',
+'Vehicle shopping',
+'Video call',
+'Video download',
+'Video editing',
+'Video player',
+'Video streaming',
+'Virtual private network (VPN)',
+'Virtual reality',
+'Wallpaper',
+'Weather',
+'Web browser',
+'Weight loss',
+'Wi-fi',
+'Wireless service provider'

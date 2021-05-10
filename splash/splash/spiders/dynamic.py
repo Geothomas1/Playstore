@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import scrapy
 from scrapy_splash import SplashRequest
 main_list=[]
@@ -8,8 +7,7 @@ class DynamicSpider(scrapy.Spider):
     allowed_domains = ['x']
     
     def start_requests(self):
-        tags=['kerala','game','exam'
-        ]
+        tags=['a','b','c','d','e','f','g','h','i','j','k','l','m','o','p','q','r','s','t','u','v','w','x','y','z']
         for i in tags:
             url='https://play.google.com/store/search?q='+i+'&c=apps'
             yield SplashRequest(url,callback=self.parse)
