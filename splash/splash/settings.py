@@ -1,3 +1,4 @@
+
 BOT_NAME = 'splash'
 SPIDER_MODULES = ['splash.spiders']
 NEWSPIDER_MODULE = 'splash.spiders'
@@ -13,4 +14,3 @@ SPIDER_MIDDLEWARES = {
 }
 DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
-
