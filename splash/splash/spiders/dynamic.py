@@ -4,13 +4,22 @@ main_list=[]
 
 class DynamicSpider(scrapy.Spider):
     name = 'dynamic'
+    
     allowed_domains = ['x']
     
     def start_requests(self):
-        tags=['a','b','c','d','e','f','g','h','i','j','k','l','m','o','p','q','r','s','t','u','v','w','x','y','z']
-        for i in tags:
-            url='https://play.google.com/store/search?q='+i+'&c=apps'
-            yield SplashRequest(url,callback=self.parse)
+        script = """
+                function main(splash, args)
+                  splash:go(args.url)
+                  local scroll_to = splash:jsfunc("window.scrollTo")
+                  scroll_to(0, 3300)
+                  splash:set_viewport_full()
+                  splash:wait(10)
+                  return {html=splash:html()}
+                end
+         """
+        url='https://play.google.com/store/search?q=kerala&c=apps'
+        yield SplashRequest(url, self.parse,  endpoint='execute', args={'lua_source': script, 'url': url})
 
     def parse(self, response):
         dev_link=[]
