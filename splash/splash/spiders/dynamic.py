@@ -9,15 +9,34 @@ class DynamicSpider(scrapy.Spider):
     
     def start_requests(self):
         script = """
-                function main(splash, args)
-                  splash:go(args.url)
-                  local scroll_to = splash:jsfunc("window.scrollTo")
-                  scroll_to(0, 3300)
-                  splash:set_viewport_full()
-                  splash:wait(10)
-                  return {html=splash:html()}
-                end
-         """
+                    function main(splash,args)
+                        splash:set_viewport_size(1028, 10000)
+                        splash:go(args.url)
+                        local scroll_to = splash:jsfunc("window.scrollTo")
+                        scroll_to(0, 2900)
+                        splash:wait(8)
+                        return {
+                            html = splash:html()
+                        }
+                    end
+                    """
+        # script = """
+        #     function main(splash)
+        #         local num_scrolls = 10
+        #         local scroll_delay = 2
+        #         local scroll_to = splash:jsfunc("window.scrollTo")
+        #         local get_body_height = splash:jsfunc(
+        #             "function() {return document.body.scrollHeight;}"
+        #             )
+        #         assert(splash:go(splash.args.url))
+        #         splash:wait(splash.args.wait)
+        #         for _ = 1, num_scrolls do
+        #             scroll_to(0, get_body_height())
+        #             splash:wait(scroll_delay)
+        #         end
+        #         return splash:html()
+        #     end        
+        #         """
         url='https://play.google.com/store/search?q=kerala&c=apps'
         yield SplashRequest(url, self.parse,  endpoint='execute', args={'lua_source': script, 'url': url})
 
