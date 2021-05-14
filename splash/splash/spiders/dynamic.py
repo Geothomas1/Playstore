@@ -37,7 +37,7 @@ class DynamicSpider(scrapy.Spider):
         #         return splash:html()
         #     end        
         #         """
-        url='https://play.google.com/store/search?q=kerala&c=apps'
+        url='https://play.google.com/store/search?q=social+media+apps&c=apps'
         yield SplashRequest(url, self.parse,  endpoint='execute', args={'lua_source': script, 'url': url})
 
     def parse(self, response):

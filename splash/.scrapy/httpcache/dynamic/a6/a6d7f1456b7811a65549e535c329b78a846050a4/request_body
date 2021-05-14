@@ -1,0 +1,10 @@
+{
+    "cookies": [],
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "User-Agent": "Scrapy/1.7.3 (+https://scrapy.org)"
+    },
+    "lua_source": "\n                    function main(splash,args)\n                        splash:set_viewport_size(1028, 10000)\n                        splash:go(args.url)\n                        local scroll_to = splash:jsfunc(\"window.scrollTo\")\n                        scroll_to(0, 2900)\n                        splash:wait(8)\n                        return {\n                            html = splash:html()\n                        }\n                    end\n                    ",
+    "url": "https://play.google.com/store/search?q=social%20mediaapps&c=apps"
+}
