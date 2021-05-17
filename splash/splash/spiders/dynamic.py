@@ -1,12 +1,13 @@
 import scrapy
 from scrapy_splash import SplashRequest
 main_list=[]
-
+keywords=[
+    'social+media+apps',
+    'exam'
+]
 class DynamicSpider(scrapy.Spider):
     name = 'dynamic'
-    
     allowed_domains = ['x']
-    
     def start_requests(self):
         script = """
                     function main(splash,args)
@@ -20,24 +21,8 @@ class DynamicSpider(scrapy.Spider):
                         }
                     end
                     """
-        # script = """
-        #     function main(splash)
-        #         local num_scrolls = 10
-        #         local scroll_delay = 2
-        #         local scroll_to = splash:jsfunc("window.scrollTo")
-        #         local get_body_height = splash:jsfunc(
-        #             "function() {return document.body.scrollHeight;}"
-        #             )
-        #         assert(splash:go(splash.args.url))
-        #         splash:wait(splash.args.wait)
-        #         for _ = 1, num_scrolls do
-        #             scroll_to(0, get_body_height())
-        #             splash:wait(scroll_delay)
-        #         end
-        #         return splash:html()
-        #     end        
-        #         """
-        url='https://play.google.com/store/search?q=social+media+apps&c=apps'
+               
+        url='https://play.google.com/store/search?q=exam&c=apps'
         yield SplashRequest(url, self.parse,  endpoint='execute', args={'lua_source': script, 'url': url})
 
     def parse(self, response):

@@ -4,7 +4,14 @@ SPIDER_MODULES = ['splash.spiders']
 NEWSPIDER_MODULE = 'splash.spiders'
 ROBOTSTXT_OBEY = False
 SPLASH_URL = 'http://localhost:8050/'
-
+# ROTATING_PROXY_LIST = [
+#     '93.170.97.160:8080',
+#     '190.211.82.178:999',
+#     '202.142.166.194:8080',
+#     '190.9.55.12:8080',
+#     '167.179.113.45:3128'
+# ]
+PROXY_POOL_ENABLED = True
 
 DOWNLOADER_MIDDLEWARES = {
     'scrapy_splash.SplashCookiesMiddleware': 723,
@@ -15,19 +22,13 @@ DOWNLOADER_MIDDLEWARES = {
 SPIDER_MIDDLEWARES = {
     'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
 }
-HTTPCACHE_ENABLED = True
-HTTPCACHE_EXPIRATION_SECS = 0
-HTTPCACHE_DIR = 'httpcache'
+# HTTPCACHE_ENABLED = True
+# HTTPCACHE_EXPIRATION_SECS = 0
+# HTTPCACHE_DIR = 'httpcache'
 DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
 
-# ROTATING_PROXY_LIST = [
-#     '93.170.97.160:8080',
-#     '190.211.82.178:999',
-#     '202.142.166.194:8080',
-#     '190.9.55.12:8080',
-#     '167.179.113.45:3128'
-# ]
+
 # SPLASH_URL = 'http://localhost:8050'
 # DOWNLOADER_MIDDLEWARES = {
 # ...
