@@ -567,7 +567,7 @@ keywords=[
     'Vietnam',
     'Yemen',
     'Zambia	',
-    'Zimbabwe'
+    'Zimbabwe',
 ]
 class DynamicSpider(scrapy.Spider):
     name = 'dynamic'
