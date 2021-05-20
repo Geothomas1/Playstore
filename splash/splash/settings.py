@@ -11,7 +11,7 @@ SPLASH_URL = 'http://localhost:8050/'
 #     '190.9.55.12:8080',
 #     '167.179.113.45:3128'
 # ]
-#PROXY_POOL_ENABLED = True
+PROXY_POOL_ENABLED = True
 
 DOWNLOADER_MIDDLEWARES = {
     'scrapy_splash.SplashCookiesMiddleware': 723,

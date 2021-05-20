@@ -47,7 +47,6 @@
 'Persian',
 'Polish',
 'Portuguese',
-'Portuguese',
 'Romanian',
 'Romansh',
 'Russian',
@@ -205,6 +204,7 @@
 'Entertainment',
 'Events',
 'Fashion',
+//from here single
 'Finance',
 'Flashlight',
 'Food+drink',
@@ -242,6 +242,7 @@
 'Study+guide',
 'Taxi+rideshare',
 'Tennis',
+//to 20-05-2021
 'Test+preparation',
 'Text+messaging',
 'Theme',
