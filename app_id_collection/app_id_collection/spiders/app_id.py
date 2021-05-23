@@ -3,6 +3,7 @@ from scrapy.http.request import Request
 from ..items import AppIdCollectionItem
 from scrapy_splash import SplashRequest
 main_list=[]
+
 script = """
                         function main(splash,args)
                             splash:set_viewport_size(1028, 10000)
@@ -15,13 +16,19 @@ script = """
                             }
                         end
                     """
-url='https://play.google.com/store/apps/dev?id=5700313618786177705'
+tag=[
+    '5700313618786177705',
+    '9076108670215860604']
+url=['https://play.google.com/store/apps/dev?id='+i
+for i in tag]
+
 class AppidSpider(scrapy.Spider):
     name='app_id'
     allowed_domain=["play.google.com"]
-    
+
     def start_requests(self):
-        yield SplashRequest(url=url, callback=self.parse)            
+        for u in url:
+            yield SplashRequest(url=u, callback=self.parse)            
 
     def parse(self,response):
         app_id_list=[]
