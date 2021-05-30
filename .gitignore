@@ -1,1 +1,4 @@
 *.scrapy
+*.json
+!spec/*.json
+

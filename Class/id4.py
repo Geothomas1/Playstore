@@ -71,5 +71,5 @@ for item in mylist:
     elif type(item) == str:
         strlist.append(item)
     
-print(len(numbers))
-print(strlist)
+print(numbers)
+print(len(strlist))
