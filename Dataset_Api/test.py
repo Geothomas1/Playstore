@@ -1,6 +1,6 @@
 from google_play_scraper import app
 
-mylist=['com.whatsapp']
+mylist=['com.yearlater.inboxmessenger']
 c=1
 for i in mylist:
     result = app(i,
@@ -45,7 +45,8 @@ for i in mylist:
     print('orginal price',originalPrice)
     print('adsupport',adSupported)
     print('relesed',released)
-
+    print(installs)
+    print(developerEmail)
     #description=result['description']
     
     #genreId=result['genreId']
