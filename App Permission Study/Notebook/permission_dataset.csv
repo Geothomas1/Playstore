@@ -1,0 +1,1327 @@
+App Name,Camera,Contacts,Device and app history,Device ID and call information,Identity,Location,Microphone,Phone,Photos/Media/Files,SMS,Storage,Uncategorized,Wi-Fi connection information,Calendar,Other
+com.whatsapp,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts","
+retrieve running apps","
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read call log
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive text messages (SMS)
+send SMS messages","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+read sync statistics
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change network connectivity
+change your audio settings
+connect and disconnect from Wi-Fi
+control Near Field Communication
+control vibration
+create accounts and set passwords
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+send sticky broadcast
+toggle sync on and off
+uninstall shortcuts
+use accounts on the device
+view network connections"
+com.truecaller,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+add voicemail
+directly call any phone numbers
+directly call phone numbers
+modify phone state
+read call log
+read phone status and identity
+reroute outgoing calls
+write call log","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+edit your text messages (SMS or MMS)
+read your text messages (SMS or MMS)
+receive text messages (MMS)
+receive text messages (SMS)
+send SMS messages","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+MMS Wakeup
+bind to a notification listener service
+read voicemail
+receive data from Internet
+use any media decoder for playback
+write voicemails","
+view Wi-Fi connections",No Access,"
+change network connectivity
+change your audio settings
+control vibration
+create accounts and set passwords
+disable your screen lock
+draw over other apps
+full network access
+install shortcuts
+modify system settings
+pair with Bluetooth devices
+prevent device from sleeping
+run at startup
+use accounts on the device
+view network connections"
+com.whatsapp.w4b,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts","
+retrieve running apps","
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read call log
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+read sync statistics
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change network connectivity
+change your audio settings
+connect and disconnect from Wi-Fi
+control Near Field Communication
+control vibration
+create accounts and set passwords
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+send sticky broadcast
+toggle sync on and off
+uninstall shortcuts
+use accounts on the device
+view network connections"
+org.telegram.messenger,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read call log
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change your audio settings
+control vibration
+create accounts and set passwords
+draw over other apps
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+toggle sync on and off
+uninstall shortcuts
+view network connections"
+com.facebook.orca,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+edit your text messages (SMS or MMS)
+read your text messages (SMS or MMS)
+receive text messages (MMS)
+receive text messages (SMS)
+send SMS messages","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+download files without notification
+receive data from Internet","
+view Wi-Fi connections","
+read calendar events plus confidential information","
+access Bluetooth settings
+change network connectivity
+change your audio settings
+connect and disconnect from Wi-Fi
+control Near Field Communication
+control vibration
+create accounts and set passwords
+draw over other apps
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+toggle sync on and off
+view network connections"
+share.sharekaro.pro,"
+take pictures and videos",No Access,"
+retrieve running apps",No Access,No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)",No Access,No Access,"
+access USB storage filesystem
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+modify/delete internal media storage contents
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+change network connectivity
+change your audio settings
+connect and disconnect from Wi-Fi
+control vibration
+create accounts and set passwords
+draw over other apps
+expand/collapse status bar
+full network access
+modify system settings
+pair with Bluetooth devices
+prevent device from sleeping
+run at startup
+toggle sync on and off
+view network connections"
+com.abtalk.freecall,No Access,"
+find accounts on the device
+modify your contacts
+read your contacts",No Access,No Access,"
+find accounts on the device",No Access,"
+record audio","
+directly call any phone numbers","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change network connectivity
+change your audio settings
+control vibration
+create accounts and set passwords
+full network access
+prevent device from sleeping
+read sync settings
+run at startup
+toggle sync on and off
+view network connections"
+bharat.browser,"
+take pictures and videos","
+read your contacts",No Access,No Access,No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet",No Access,No Access,"
+change your audio settings
+control vibration
+draw over other apps
+full network access
+install shortcuts
+prevent device from sleeping
+run at startup
+view network connections"
+com.bingo.livetalk,"
+take pictures and videos",No Access,No Access,No Access,No Access,No Access,"
+record audio",No Access,No Access,No Access,No Access,"
+receive data from Internet",No Access,No Access,"
+change your audio settings
+full network access
+pair with Bluetooth devices
+prevent device from sleeping
+view network connections"
+com.imo.android.imoim,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts","
+retrieve running apps","
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections","
+add or modify calendar events and send email to guests without owners' knowledge
+read calendar events plus confidential information","
+change your audio settings
+connect and disconnect from Wi-Fi
+control Near Field Communication
+control vibration
+create accounts and set passwords
+draw over other apps
+full network access
+install shortcuts
+measure app storage space
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+send sticky broadcast
+toggle sync on and off
+view network connections"
+com.google.android.apps.messaging,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+edit your text messages (SMS or MMS)
+read your text messages (SMS or MMS)
+receive text messages (MMS)
+receive text messages (SMS)
+receive text messages (WAP)
+send SMS messages","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+download files without notification
+receive data from Internet",No Access,No Access,"
+change network connectivity
+control vibration
+full network access
+measure app storage space
+prevent device from sleeping
+read Google service configuration
+run at startup
+view network connections"
+com.discord,"
+take pictures and videos","
+find accounts on the device
+read your contacts",No Access,No Access,"
+find accounts on the device",No Access,"
+record audio",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet
+update component usage statistics",No Access,No Access,"
+change your audio settings
+control vibration
+draw over other apps
+full network access
+pair with Bluetooth devices
+prevent device from sleeping
+run at startup
+send sticky broadcast
+view network connections"
+com.opera.mini.native,"
+take pictures and videos","
+read your contacts","
+read your Web bookmarks and history","
+read phone status and identity",No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+change network connectivity
+change your audio settings
+connect and disconnect from Wi-Fi
+control Near Field Communication
+control flashlight
+control vibration
+create accounts and set passwords
+draw over other apps
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read sync settings
+toggle sync on and off
+view network connections"
+il.co.smedia.callrecorder.yoni,No Access,"
+read your contacts",No Access,"
+read phone status and identity",No Access,No Access,"
+record audio","
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+capture audio output
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change your audio settings
+control vibration
+full network access
+pair with Bluetooth devices
+prevent device from sleeping
+run at startup
+view network connections"
+com.facebook.mlite,"
+take pictures and videos","
+find accounts on the device
+read your contacts",No Access,"
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card",No Access,"
+record audio","
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change network connectivity
+change your audio settings
+control vibration
+create accounts and set passwords
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read battery statistics
+run at startup
+uninstall shortcuts
+view network connections"
+com.scarzstudio.scarz,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,"
+receive data from Internet",No Access,No Access,"
+full network access
+prevent device from sleeping
+run at startup
+view network connections"
+com.google.android.contacts,No Access,"
+find accounts on the device
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+modify your own contact card
+read your own contact card",No Access,No Access,"
+directly call phone numbers
+read phone status and identity","
+read the contents of your USB storage",No Access,"
+read the contents of your USB storage","
+read sync statistics
+receive data from Internet
+view configured accounts",No Access,No Access,"
+control Near Field Communication
+control vibration
+full network access
+install shortcuts
+modify system settings
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+toggle sync on and off
+use accounts on the device
+view network connections"
+x.free.unlimited.global.call,No Access,"
+find accounts on the device
+modify your contacts
+read your contacts",No Access,No Access,"
+find accounts on the device","
+approximate location (network-based)","
+record audio","
+directly call any phone numbers",No Access,No Access,No Access,"
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change network connectivity
+change your audio settings
+control vibration
+create accounts and set passwords
+full network access
+prevent device from sleeping
+read sync settings
+run at startup
+toggle sync on and off
+view network connections"
+com.dartushinc.callername,"
+take pictures and videos","
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity",No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)",No Access,"
+directly call phone numbers
+modify phone state
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+allow Bluetooth pairing by Application","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+change your audio settings
+control vibration
+draw over other apps
+full network access
+install shortcuts
+measure app storage space
+modify system settings
+pair with Bluetooth devices
+prevent device from sleeping
+run at startup
+view network connections"
+com.callapp.contacts,No Access,"
+find accounts on the device
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+modify phone state
+read call log
+read phone status and identity
+reroute outgoing calls
+write call log","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+read your text messages (SMS or MMS)
+receive text messages (SMS)
+send SMS messages","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+capture audio output
+read sync statistics
+receive data from Internet
+update component usage statistics","
+view Wi-Fi connections","
+add or modify calendar events and send email to guests without owners' knowledge
+read calendar events plus confidential information","
+change your audio settings
+control vibration
+create accounts and set passwords
+disable your screen lock
+draw over other apps
+full network access
+install shortcuts
+modify system settings
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+send sticky broadcast
+set an alarm
+toggle sync on and off
+use accounts on the device
+view network connections"
+com.mobile.number.locator.phone.gps.map,"
+take pictures and videos","
+read your contacts",No Access,"
+read phone status and identity",No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)",No Access,"
+directly call phone numbers
+read call log
+read phone status and identity",No Access,No Access,No Access,"
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+control flashlight
+draw over other apps
+full network access
+prevent device from sleeping
+run at startup
+view network connections"
+lv.indycall.client,No Access,"
+find accounts on the device
+read your contacts",No Access,"
+read phone status and identity","
+find accounts on the device","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change network connectivity
+change your audio settings
+connect and disconnect from Wi-Fi
+control vibration
+full network access
+prevent device from sleeping
+run at startup
+set an alarm
+view network connections"
+com.opera.browser,"
+take pictures and videos",No Access,"
+read your Web bookmarks and history","
+read phone status and identity",No Access,"
+precise location (GPS and network-based)","
+record audio","
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+allow Wi-Fi Multicast reception
+change your audio settings
+control Near Field Communication
+control flashlight
+control vibration
+create accounts and set passwords
+draw over other apps
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read sync settings
+run at startup
+toggle sync on and off
+view network connections"
+com.ovbdigital.ppubgstickers,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,"
+receive data from Internet",No Access,No Access,"
+control vibration
+full network access
+prevent device from sleeping
+run at startup
+view network connections"
+pro.whatscan.whatsweb.app,"
+take pictures and videos",No Access,No Access,No Access,No Access,No Access,No Access,No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet",No Access,No Access,"
+control vibration
+full network access
+prevent device from sleeping
+run at startup
+view network connections"
+com.jio.join,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts","
+retrieve running apps","
+read phone status and identity","
+find accounts on the device","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read call log
+read phone status and identity
+reroute outgoing calls
+write call log","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+edit your text messages (SMS or MMS)
+read your text messages (SMS or MMS)
+receive text messages (MMS)
+receive text messages (SMS)
+send SMS messages","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+allow Wi-Fi Multicast reception
+change network connectivity
+change your audio settings
+control vibration
+disable your screen lock
+draw over other apps
+expand/collapse status bar
+full network access
+install shortcuts
+modify system settings
+pair with Bluetooth devices
+prevent device from sleeping
+read sync settings
+run at startup
+send sticky broadcast
+toggle sync on and off
+uninstall shortcuts
+view network connections"
+com.azarlive.android,"
+take pictures and videos","
+read your contacts","
+retrieve running apps",No Access,No Access,"
+approximate location (network-based)","
+record audio",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change your audio settings
+control vibration
+full network access
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+send sticky broadcast
+view network connections"
+com.eyecon.global,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts","
+retrieve running apps","
+read phone status and identity","
+find accounts on the device","
+approximate location (network-based)","
+record audio","
+directly call phone numbers
+read call log
+read phone status and identity
+reroute outgoing calls
+write call log","
+access USB storage filesystem
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+read your text messages (SMS or MMS)
+receive text messages (SMS)
+send SMS messages","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+change network connectivity
+change your audio settings
+close other apps
+control vibration
+disable your screen lock
+draw over other apps
+full network access
+pair with Bluetooth devices
+prevent device from sleeping
+reorder running apps
+run at startup
+view network connections"
+uc.ucmini.browser.ucbrowser,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet",No Access,No Access,"
+change network connectivity
+draw over other apps
+full network access
+prevent device from sleeping
+run at startup
+view network connections"
+com.drilens.wamr,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+view Wi-Fi connections",No Access,"
+control vibration
+full network access
+view network connections"
+wastickerapps.stickersforwhatsapp,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet",No Access,No Access,"
+control vibration
+full network access
+prevent device from sleeping
+run at startup
+view network connections"
+u.browser.for.lite.uc.browser,"
+take pictures and videos","
+read your contacts","
+retrieve running apps",No Access,No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet
+update component usage statistics","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+change your audio settings
+close other apps
+connect and disconnect from Wi-Fi
+control vibration
+delete all app cache data
+draw over other apps
+full network access
+install shortcuts
+measure app storage space
+modify system settings
+prevent device from sleeping
+run at startup
+toggle sync on and off
+view network connections"
+com.touchtalent.bobbleapp,"
+take pictures and videos","
+find accounts on the device
+read your contacts","
+retrieve running apps",No Access,"
+find accounts on the device","
+access extra location provider commands
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+add words to user-defined dictionary
+connect and disconnect from Wi-Fi
+control vibration
+draw over other apps
+full network access
+install shortcuts
+prevent device from sleeping
+read Google service configuration
+read terms you added to the dictionary
+run at startup
+uninstall shortcuts
+view network connections"
+com.google.android.apps.tachyon,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card",No Access,"
+record audio","
+read phone status and identity
+write call log","
+modify or delete the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage","
+disable or modify status bar
+read sync statistics
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change network connectivity
+change your audio settings
+control vibration
+create accounts and set passwords
+draw over other apps
+full network access
+install shortcuts
+measure app storage space
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+run at startup
+send sticky broadcast
+toggle sync on and off
+view network connections"
+com.uc_browser,"
+take pictures and videos",No Access,No Access,"
+read phone status and identity",No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)",No Access,"
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+control vibration
+full network access
+prevent device from sleeping
+run at startup
+view network connections"
+com.hiiu.live,"
+take pictures and videos",No Access,"
+read sensitive log data
+retrieve running apps","
+read phone status and identity",No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+read phone status and identity","
+access USB storage filesystem
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+interact across users
+read Home settings and shortcuts
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+change network connectivity
+change system display settings
+change your audio settings
+connect and disconnect from Wi-Fi
+control flashlight
+control vibration
+disable your screen lock
+draw over other apps
+full network access
+mock location sources for testing
+modify system settings
+pair with Bluetooth devices
+prevent device from sleeping
+reorder running apps
+run at startup
+view network connections"
+org.mozilla.firefox,"
+take pictures and videos",No Access,No Access,No Access,No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+download files without notification
+receive data from Internet",No Access,No Access,"
+change your audio settings
+control vibration
+full network access
+install shortcuts
+prevent device from sleeping
+run at startup
+view network connections"
+com.zinn.currentmobiletrackerlocation,No Access,"
+read your contacts",No Access,No Access,No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)",No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,"
+full network access
+prevent device from sleeping
+read Google service configuration
+view network connections"
+com.jiochat.jiochatapp,"
+take pictures and videos","
+modify your contacts
+read your contacts","
+read your Web bookmarks and history
+retrieve running apps","
+read phone status and identity","
+add or remove accounts","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+read sync statistics
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+change network connectivity
+change your audio settings
+close other apps
+connect and disconnect from Wi-Fi
+control flashlight
+control vibration
+create accounts and set passwords
+draw over other apps
+expand/collapse status bar
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+toggle sync on and off
+uninstall shortcuts
+view network connections"
+im.thebot.messenger,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts","
+retrieve running apps","
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+read sync statistics
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+change network connectivity
+change your audio settings
+connect and disconnect from Wi-Fi
+control flashlight
+control vibration
+create accounts and set passwords
+draw over other apps
+full network access
+install shortcuts
+modify system settings
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+send sticky broadcast
+toggle sync on and off
+uninstall shortcuts
+use accounts on the device
+view network connections"
+truecaller.caller.callerid.name.phone.dialer,No Access,"
+find accounts on the device
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity","
+find accounts on the device","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read call log
+read phone status and identity
+write call log",No Access,"
+edit your text messages (SMS or MMS)
+read your text messages (SMS or MMS)
+receive text messages (MMS)
+receive text messages (SMS)
+send SMS messages",No Access,"
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+control vibration
+draw over other apps
+full network access
+prevent device from sleeping
+read battery statistics
+run at startup
+view network connections"
+com.helixdev.onesocial,No Access,No Access,No Access,No Access,No Access,No Access,No Access,No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections","
+add or modify calendar events and send email to guests without owners' knowledge
+read calendar events plus confidential information","
+change network connectivity
+control vibration
+full network access
+prevent device from sleeping
+run at startup
+send sticky broadcast
+set an alarm
+view network connections"
+com.xbrowser.play,No Access,No Access,No Access,No Access,No Access,"
+precise location (GPS and network-based)",No Access,No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+view Wi-Fi connections",No Access,"
+full network access
+install shortcuts
+prevent device from sleeping
+view network connections"
+org.thoughtcrime.securesms,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts",No Access,"
+read phone status and identity","
+find accounts on the device
+modify your own contact card
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+edit your text messages (SMS or MMS)
+read your text messages (SMS or MMS)
+receive text messages (MMS)
+receive text messages (SMS)
+send SMS messages","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet
+send WAP-PUSH-received broadcast","
+view Wi-Fi connections","
+add or modify calendar events and send email to guests without owners' knowledge
+read calendar events plus confidential information","
+change network connectivity
+change your audio settings
+connect and disconnect from Wi-Fi
+control vibration
+create accounts and set passwords
+disable your screen lock
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read sync settings
+run at startup
+send sticky broadcast
+set wallpaper
+toggle sync on and off
+use accounts on the device
+view network connections"
+com.speaktranslate.englishalllanguaguestranslator.ivoicetranslation,"
+take pictures and videos",No Access,No Access,No Access,No Access,No Access,"
+record audio",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+add words to user-defined dictionary
+control vibration
+draw over other apps
+full network access
+prevent device from sleeping
+read terms you added to the dictionary
+run at startup
+set an alarm
+view network connections"
+com.brave.browser,"
+take pictures and videos",No Access,No Access,No Access,No Access,"
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+download files without notification
+read sync statistics
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+access Bluetooth settings
+change network connectivity
+change your audio settings
+control vibration
+full network access
+install shortcuts
+pair with Bluetooth devices
+prevent device from sleeping
+read sync settings
+reorder running apps
+run at startup
+toggle sync on and off
+view network connections"
+livemobiletracker.locationtracker.phonelocator.inviteloop,No Access,"
+read your contacts",No Access,No Access,No Access,"
+precise location (GPS and network-based)",No Access,"
+directly call phone numbers","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet",No Access,No Access,"
+change your audio settings
+control vibration
+draw over other apps
+full network access
+prevent device from sleeping
+run at startup
+view network connections"
+com.imo.android.imoimbeta,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts","
+retrieve running apps","
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive data from Internet","
+view Wi-Fi connections","
+add or modify calendar events and send email to guests without owners' knowledge
+read calendar events plus confidential information","
+change your audio settings
+connect and disconnect from Wi-Fi
+control Near Field Communication
+control vibration
+create accounts and set passwords
+draw over other apps
+full network access
+install shortcuts
+measure app storage space
+pair with Bluetooth devices
+prevent device from sleeping
+read Google service configuration
+read sync settings
+run at startup
+send sticky broadcast
+toggle sync on and off
+view network connections"
+com.skype.raider,"
+take pictures and videos","
+find accounts on the device
+modify your contacts
+read your contacts","
+retrieve running apps","
+read phone status and identity","
+add or remove accounts
+find accounts on the device
+read your own contact card","
+approximate location (network-based)
+precise location (GPS and network-based)","
+record audio","
+directly call phone numbers
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+receive text messages (SMS)","
+modify or delete the contents of your USB storage
+read the contents of your USB storage","
+download files without notification
+read sync statistics
+receive data from Internet","
+view Wi-Fi connections",No Access,"
+change network connectivity
+change your audio settings
+connect and disconnect from Wi-Fi
+control vibration
+create accounts and set passwords
+disable your screen lock
+draw over other apps
+full network access
+modify system settings
+pair with Bluetooth devices
+prevent device from sleeping
+read sync settings
+run at startup
+send sticky broadcast
+toggle sync on and off
+use accounts on the device
+view network connections"
+livemobilelocationtracker.teccreations,No Access,No Access,No Access,"
+read phone status and identity",No Access,"
+precise location (GPS and network-based)",No Access,"
+read phone status and identity","
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,"
+modify or delete the contents of your USB storage
+read the contents of your USB storage",No Access,No Access,No Access,"
+full network access
+prevent device from sleeping
+run at startup
+view network connections"
