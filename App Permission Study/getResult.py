@@ -3,7 +3,7 @@ import pprint
 from google_play_scraper import permissions
 
 result = permissions(
-    'org.telegram.messenger',
+    'com.carrotpop.www.smth',
     lang='en', # defaults to 'en'
     country='us', # defaults to 'us'
 )

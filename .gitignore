@@ -2,4 +2,8 @@
 *.json
 !spec/*.json
 *.pdf
+*.jl
+*.csv
+
+
 
